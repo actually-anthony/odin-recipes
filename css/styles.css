@@ -15,17 +15,23 @@ img {
     margin-bottom: -15px;
 }
 
-ul {
+li, ol {
     text-align: left;
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
 }
+
+/* li {
+    padding
+} */
 
 a {
     color: #6fb4f8;
+    text-decoration: none;
 }
 
 a:visited{
-    color:plum
+    color:plum;
+    text-decoration: none;
 }
 
 h3{
@@ -47,3 +53,12 @@ p {
     padding: 10px;
 }
 
+hr{
+    margin-top: -15px;
+    margin-bottom: -15px;
+}
+
+header {
+    text-align: left;
+    margin-bottom: 5px;
+}
