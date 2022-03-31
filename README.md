@@ -1,2 +1,2 @@
 # odin-recipes
-First assignment in The Odin Project (TOP). Provides 3 receipes with their own page.
+First assignment in The Odin Project (TOP). Provides 3 recipes with their own page.
